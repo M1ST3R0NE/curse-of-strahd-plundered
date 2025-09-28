@@ -7,6 +7,6 @@ Shop run by [[Locations, People, Dictionary/Minor NPC's/Grandma Momo\|Grandma Mo
 
 | ITEM                                         | COST |
 | -------------------------------------------- | ---- |
-| Meat/Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]             |      |
-| Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]                  |      |
-| Sweet Raspberry/Rhubarb [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]] |      |
+| Meat/Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]             | N/A  |
+| Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]                  | N/A  |
+| Sweet Raspberry/Rhubarb [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]] | N/A  |

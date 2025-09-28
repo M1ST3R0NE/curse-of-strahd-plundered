@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/party/"}
+{"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/party/","tags":["Index"]}
 ---
 
 The party consists of the player characters of the campaign, and perhaps npc's as time goes on

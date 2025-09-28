@@ -4,5 +4,5 @@
 
 
 
-Location: Buried along the road to the [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\|Village of Barovia]]
+Location: Buried in the graveyard in the [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\|Village]]
 Status: Dead, very dead
