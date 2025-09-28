@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/dahlia/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, Played by Sam
+Player Character, Played by S
 
 Appearance: Porcelain dollike, feminine, hollow slots for eyes
 Class: Artificer

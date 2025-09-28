@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/cooper-gatsby/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, played by Rob
+Player Character, played by R
 
 Appearance: Grim features, haunted eyes, bigass gun
 Class: Artificer

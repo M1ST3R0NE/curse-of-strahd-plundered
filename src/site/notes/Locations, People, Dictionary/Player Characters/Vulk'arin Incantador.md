@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/vulk-arin-incantador/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, played by Chris
+Player Character, played by C
 
 Appearance: Blue Tiefling, very flamboyant clothing and jewelry, slim figure and white locks, twinkish
 Class: Wizard

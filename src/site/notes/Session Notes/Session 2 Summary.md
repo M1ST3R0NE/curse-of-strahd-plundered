@@ -10,13 +10,13 @@ Crying in [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\
 	Knocking on door, she seems very frail and very hungry, lost daughter. "[[Locations, People, Dictionary/Minor NPC's/Gertruda\|Gertruda]]"
 	Investigating room reveals some drawings, most normal but one contains a shadowy figure lurking in the woods
 	Painting has divination magic upon it. (Through detect magic)
-	Mary has memory loss, inconsistent recalling of events.
+	[[Locations, People, Dictionary/Minor NPC's/Mary\|Mary]] has memory loss, inconsistent recalling of events.
 	Stack of drawings from daughter, only one other drawing of note, with Strauds Carriage
 	Conclude that daughter was probably abducted by Straud
 Carry on into [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\|Village]], towards the bar/inn
 [[Locations, People, Dictionary/Minor NPC's/Grandma Momo\|Grandma Momo]] sells pies in town, two mysterious lights in the [[Locations, People, Dictionary/Barovian Mysteries/The Fog\|fog]]
-Grandma Momo is very old, blind in one eye 
-	Pie Stand
+
+[[Locations, People, Dictionary/Village Of Barovia/The Pie Stand\|Pie Stand]]
 		Meat/Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]
 		Veggie [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]
 		Sweet Raspberry/Rhubarb [[Locations, People, Dictionary/Items Of Interest/Momo's Pies\|Pie]]

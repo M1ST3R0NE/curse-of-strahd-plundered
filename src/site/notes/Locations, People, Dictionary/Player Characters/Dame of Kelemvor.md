@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/dame-of-kelemvor/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, played by Rob
+Player Character, played by R
 
 Location: With the [[Locations, People, Dictionary/Player Characters/Party\|Party]]
 Status: Alive, for now

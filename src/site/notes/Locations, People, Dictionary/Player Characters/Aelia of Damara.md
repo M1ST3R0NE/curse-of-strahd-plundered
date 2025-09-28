@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/aelia-of-damara/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, played by Karis
+Player Character, played by KA
 
 Appearance: Half-elf, short chocolate brown hair, hazel blue eyes
 Class: Rogue

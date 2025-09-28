@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/locations-people-dictionary/player-characters/alice-casksky/","tags":["PlayerCharacter"]}
 ---
 
-Player Character, played by Genna
+Player Character, played by G
 
 Class: Warlock
 Appearance: 
