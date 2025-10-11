@@ -11,8 +11,8 @@ Crying in [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\
 	Investigating room reveals some drawings, most normal but one contains a shadowy figure lurking in the woods
 	Painting has divination magic upon it. (Through detect magic)
 	[[Locations, People, Dictionary/Minor NPC's/Mary\|Mary]] has memory loss, inconsistent recalling of events.
-	Stack of drawings from daughter, only one other drawing of note, with Strauds Carriage
-	Conclude that daughter was probably abducted by Straud
+	Stack of drawings from daughter, only one other drawing of note, with Strahds Carriage
+	Conclude that daughter was probably abducted by Strahd
 Carry on into [[Locations, People, Dictionary/Village Of Barovia/Village of Barovia\|Village]], towards the bar/inn
 [[Locations, People, Dictionary/Minor NPC's/Grandma Momo\|Grandma Momo]] sells pies in town, two mysterious lights in the [[Locations, People, Dictionary/Barovian Mysteries/The Fog\|fog]]
 
