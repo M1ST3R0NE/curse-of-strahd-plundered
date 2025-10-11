@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/session-notes/session-3-summary/"}
+{"dg-publish":true,"permalink":"/session-notes/session-3-summary/","tags":["Summary"]}
 ---
 
 We start this session at the [[Locations, People, Dictionary/Tser Pool\|Tser Pool]], [[Locations, People, Dictionary/Player Characters/Dover\|Dover]] tries to dap up [[Locations, People, Dictionary/Player Characters/Dame of Kelemvor\|Dame]], fails the hit but sticks the snap
@@ -13,7 +13,7 @@ Wolves are taken out without much trouble, Strahd is very insistent on taking Ir
 Strahd allows us to live, and retreats into the fog without striking us.
 
 Castor cooks breakfast, Mori burns breakfast
-[[Amori Face Reveal.png]], ginger and bloodshot eyes
+Amori Face Reveal[^2], ginger and bloodshot eyes
 
 We continue on the path
 As the party carries on, we come across a windmill, we decide to not explore it yet.
@@ -42,3 +42,6 @@ We enter St. Andral's Church, and deliver Ireena to [[Locations, People, Diction
 
 
 [^1]: #Shop 
+
+[^2]: [[Amori Face Reveal.png]]
+
