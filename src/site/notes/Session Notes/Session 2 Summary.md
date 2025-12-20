@@ -49,7 +49,7 @@ We leave The Village and Start heading to Vallaki
 At the Crossroads, we come across some gallows, decide to go towards the pool.  A man appears hanging in the gallows, appears like Kim ONLY to Kim
 
 TSER POOL
-	We come across a bunch of revelers (Vistari), hanging out and having a grand time
+	We come across a bunch of revelers ([[Vistari\|Vistari]]), hanging out and having a grand time
 	We decide to go into the reveler camp to talk to Madam Ava
 	Madam Ava is an old crone, staring into a crystal ball
 	She knows our true names.  She seems to be a mystic, she has a deck of Tarot Cards

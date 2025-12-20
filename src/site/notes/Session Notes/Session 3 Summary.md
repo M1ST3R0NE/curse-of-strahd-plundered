@@ -13,7 +13,7 @@ Wolves are taken out without much trouble, Strahd is very insistent on taking Ir
 Strahd allows us to live, and retreats into the fog without striking us.
 
 Castor cooks breakfast, Mori burns breakfast
-Amori Face Reveal[^2], ginger and bloodshot eyes
+Mori Face Reveal[^2], ginger and bloodshot eyes
 
 We continue on the path
 As the party carries on, we come across a windmill, we decide to not explore it yet.
@@ -37,11 +37,11 @@ We enter the [[Locations, People, Dictionary/Vallaki/Stockyard\|Stockyard]], wit
 Old man does not have a good relation with the [[Locations, People, Dictionary/Minor NPC's/Vistani\|Vistani]]
 We head toward [[Locations, People, Dictionary/Vallaki/St. Andral's Church\|St. Andral's Church]]
 In the center of town, we come across the stockades and town center.  These are located in the center of town.
-Bunch of  shops [^1] along the strip
-We enter St. Andral's Church, and deliver Ireena to [[Locations, People, Dictionary/Minor NPC's/Father Lucian\|Father Lucian]].
+Bunch of shops [^1] along the strip
+We enter [[Locations, People, Dictionary/Vallaki/St. Andral's Church\|St. Andral's Church]], and deliver Ireena to [[Locations, People, Dictionary/Minor NPC's/Father Lucian\|Father Lucian]].
 
 
 [^1]: #Shop 
 
-[^2]: [[Amori Face Reveal.png]]
+[^2]: [[Locations, People, Dictionary/Player Characters/Dame of Kelemvor\|Dame of Mori]]
 
